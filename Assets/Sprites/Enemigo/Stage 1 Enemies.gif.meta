@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: bf5956c17d6ae8646a2f8e435c95d812
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7784068263947632923
+    second: Enemigo_Correr_01
+  - first:
+      213: -4485535813759989323
+    second: Enemigo_Correr_02
+  - first:
+      213: 650880738019799408
+    second: Enemigo_Correr_03
+  - first:
+      213: -3542373546281946421
+    second: Enemigo_Correr_04
+  - first:
+      213: -807595920873660823
+    second: Enemigo_Correr_05
+  - first:
+      213: 8283537125257155018
+    second: Stage 1 Enemies_5
+  - first:
+      213: 6506077669153178112
+    second: Stage 1 Enemies_6
+  - first:
+      213: -4147067822339819532
+    second: Stage 1 Enemies_7
+  - first:
+      213: -3799627620088551578
+    second: Stage 1 Enemies_8
+  - first:
+      213: -338143008419859365
+    second: Stage 1 Enemies_9
+  - first:
+      213: -3797503312418593041
+    second: Enemigo_Ataque_01
+  - first:
+      213: 3484015664005982202
+    second: Enemigo_Ataque_04
+  - first:
+      213: 2257269213689099660
+    second: Enemigo_Ataque_02
+  - first:
+      213: 452013851373508978
+    second: Enemigo_Ataque_03
+  - first:
+      213: -6932002574049238855
+    second: Enemigo_Ataque_05
+  - first:
+      213: -4035982979412017368
+    second: Stage 1 Enemies_17
+  - first:
+      213: 6599646783911142666
+    second: Stage 1 Enemies_18
+  - first:
+      213: 8819919741370193161
+    second: Enemigo_Muerte_01
+  - first:
+      213: -1176057604556593607
+    second: Enemigo_Muerte_02
+  - first:
+      213: 2607579394772241637
+    second: Enemigo_Muerte_03
+  - first:
+      213: -3557577307343799811
+    second: Enemigo1_Idle
+  - first:
+      213: 505512663354149663
+    second: Stage 1 Enemies_23
+  - first:
+      213: -5171137134041792344
+    second: Stage 1 Enemies_24
+  - first:
+      213: 8864280854953226216
+    second: Stage 1 Enemies_25
+  - first:
+      213: -6880021585644524140
+    second: Stage 1 Enemies_26
+  - first:
+      213: -891210347254799462
+    second: Stage 1 Enemies_27
+  - first:
+      213: -7071463678553836449
+    second: Stage 1 Enemies_28
+  - first:
+      213: 5987419181733763745
+    second: Stage 1 Enemies_29
+  - first:
+      213: 2329513898139087000
+    second: Stage 1 Enemies_30
+  - first:
+      213: 1911321234104969928
+    second: Stage 1 Enemies_31
+  - first:
+      213: 6964706631240047603
+    second: Stage 1 Enemies_32
+  - first:
+      213: -2586510665981036203
+    second: Stage 1 Enemies_33
+  - first:
+      213: 8716522165159792044
+    second: Stage 1 Enemies_34
+  - first:
+      213: -761435417118079381
+    second: Stage 1 Enemies_35
+  - first:
+      213: -5244570081095347037
+    second: Stage 1 Enemies_36
+  - first:
+      213: 8132751098246534319
+    second: Stage 1 Enemies_37
+  - first:
+      213: 5000114937331942909
+    second: Stage 1 Enemies_38
+  - first:
+      213: -19371219542573523
+    second: Stage 1 Enemies_39
+  - first:
+      213: 278438548829630148
+    second: Stage 1 Enemies_40
+  - first:
+      213: -7607991274168641258
+    second: Stage 1 Enemies_41
+  - first:
+      213: 4233051191112483942
+    second: serpierte_01
+  - first:
+      213: -83887844703467395
+    second: serpierte_02
+  - first:
+      213: 4953202720129485617
+    second: serpierte_03
+  - first:
+      213: 2561236438695818405
+    second: serpierte_04
+  - first:
+      213: 5364628482013019660
+    second: serpierte_05
+  - first:
+      213: -8194332216316673550
+    second: serpierte_06
+  - first:
+      213: 5607114560990027451
+    second: serpierte_07
+  - first:
+      213: -3766016529738121981
+    second: serpierte_08
+  - first:
+      213: 3759557856311299901
+    second: serpierte_Ataque_01
+  - first:
+      213: -2991991407300227645
+    second: serpierte_Ataque_02
+  - first:
+      213: -2795506773960596382
+    second: serpierte_Ataque_03
+  - first:
+      213: 2701731230222301445
+    second: serpierte_Ataque_04
+  - first:
+      213: -8565052157955765370
+    second: serpierte_Muerte_01
+  - first:
+      213: -7334169977531663605
+    second: serpierte_Muerte_02
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_Correr_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 532
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118df328d0960c60800000000000000
+      internalID: 7784068263947632923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Correr_02
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 533
+        width: 49
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90b8951fc20c1c0800000000000000
+      internalID: -4485535813759989323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Correr_03
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 533
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07170dc2594680900800000000000000
+      internalID: 650880738019799408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Correr_04
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 535
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2bf182706f6dec0800000000000000
+      internalID: -3542373546281946421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Correr_05
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 538
+        width: 50
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e554ee9c7dac4f0800000000000000
+      internalID: -807595920873660823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 480
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac196ba902905f270800000000000000
+      internalID: 8283537125257155018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 50
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020afe5b2b3a4a50800000000000000
+      internalID: 6506077669153178112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 481
+        width: 51
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77bf5a9c7a276c0800000000000000
+      internalID: -4147067822339819532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 479
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ebd19fc2054bc0800000000000000
+      internalID: -3799627620088551578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 480
+        width: 49
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543ad3b9bcae4bf0800000000000000
+      internalID: -338143008419859365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Ataque_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 415
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6abed7bde8c4bc0800000000000000
+      internalID: -3797503312418593041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Ataque_04
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 420
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af729fc89c5b95030800000000000000
+      internalID: 3484015664005982202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Ataque_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 415
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c853d5ce36e635f10800000000000000
+      internalID: 2257269213689099660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Ataque_03
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 417
+        width: 60
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799ca4f330e54600800000000000000
+      internalID: 452013851373508978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Ataque_05
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 423
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a3bfd2649ccf90800000000000000
+      internalID: -6932002574049238855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fbf902dde4df7c0800000000000000
+      internalID: -4035982979412017368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 365
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a21698c7a69b50800000000000000
+      internalID: 6599646783911142666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_01
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 365
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90553db5646a66a70800000000000000
+      internalID: 8819919741370193161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_02
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 367
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936e105f6ddcdafe0800000000000000
+      internalID: -1176057604556593607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_Muerte_03
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 368
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec070dd4abff2420800000000000000
+      internalID: 2607579394772241637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo1_Idle
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 308
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df938cea942f0aec0800000000000000
+      internalID: -3557577307343799811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 310
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8fa8c611f30700800000000000000
+      internalID: 505512663354149663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 311
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08b98ac2e6c38b0800000000000000
+      internalID: -5171137134041792344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 311
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef68ccf870440b70800000000000000
+      internalID: 8864280854953226216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 311
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d63acd1d04580a0800000000000000
+      internalID: -6880021585644524140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 311
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a9b739e8c1a3f0800000000000000
+      internalID: -891210347254799462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 314
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b8b5204d1ddd90800000000000000
+      internalID: -7071463678553836449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 315
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad998e506971350800000000000000
+      internalID: 5987419181733763745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 252
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8907aed4c88145020800000000000000
+      internalID: 2329513898139087000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 253
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caec7a2980668a10800000000000000
+      internalID: 1911321234104969928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 199
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbdedfc7cb97a060800000000000000
+      internalID: 6964706631240047603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f072d04eda1cd0800000000000000
+      internalID: -2586510665981036203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 201
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0b232abe47f870800000000000000
+      internalID: 8716522165159792044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 203
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66864bb586de65f0800000000000000
+      internalID: -761435417118079381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a49ba45c4b8737b0800000000000000
+      internalID: -5244570081095347037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 204
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa417a1e8065dd070800000000000000
+      internalID: 8132751098246534319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58bc33b0af36540800000000000000
+      internalID: 5000114937331942909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 208
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7c4c7afd2bbff0800000000000000
+      internalID: -19371219542573523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee3ca82663dd300800000000000000
+      internalID: 278438548829630148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61918e8be3cfa6690800000000000000
+      internalID: -7607991274168641258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664cd4271a1deba30800000000000000
+      internalID: 4233051191112483942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_02
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 108
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780a7f1378f5def0800000000000000
+      internalID: -83887844703467395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_03
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 109
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b01d971af4db440800000000000000
+      internalID: 4953202720129485617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_04
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 110
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4304298f65b8320800000000000000
+      internalID: 2561236438695818405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_05
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 112
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e345e6e2df27a40800000000000000
+      internalID: 5364628482013019660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_06
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 111
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c7e2c342e74e80800000000000000
+      internalID: -8194332216316673550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_07
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 111
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1bb64cf870dd40800000000000000
+      internalID: 5607114560990027451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_08
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 114
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db5be5beb6cbbc0800000000000000
+      internalID: -3766016529738121981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Ataque_01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc6f983f1ac2430800000000000000
+      internalID: 3759557856311299901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Ataque_02
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd49d4daaf4a76d0800000000000000
+      internalID: -2991991407300227645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Ataque_03
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 73
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26461ea766d5439d0800000000000000
+      internalID: -2795506773960596382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Ataque_04
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 74
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509baff4d3a7e7520800000000000000
+      internalID: 2701731230222301445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Muerte_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8a522172d22980800000000000000
+      internalID: -8565052157955765370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serpierte_Muerte_02
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 29
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf3e6734bc73a90800000000000000
+      internalID: -7334169977531663605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
